@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.Footer{
+  color:red;
+}
+.Content{
+  min-height: 500px;
+  border: solid 1px green;
+}
